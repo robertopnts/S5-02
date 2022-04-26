@@ -1,0 +1,11 @@
+i;i%2 == 0;i%2 == 1;i%5 == 0;isPrime(i);string
+1;-;-;-;-;Snap
+2;true;false;false;true;Prime
+3;false;true;false;true;SnapPrime
+4;true;false;false;false;4
+5;false;true;true;true;SnapCracklePrime
+6;true;false;false;false;6
+7;false;true;false;true;SnapPrime
+8;true;false;false;false;8
+9;false;true;false;false;Snap
+10;true;false;true;false;Crackle
